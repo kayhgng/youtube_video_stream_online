@@ -3,6 +3,14 @@ Watch Youtube videos without annoying comments and ads , Just Focus and be Relax
 
 # Stream and Watch Youtube Videos Online
 
+# Application/Site Url:
+- https://youtubevideostreamonline.streamlit.app/
+- https://huggingface.co/spaces/alikayh/youtubestreamvideo
+
+# آدرس اپلیکیشن / سایت
+- https://youtubevideostreamonline.streamlit.app/
+- https://huggingface.co/spaces/alikayh/youtubestreamvideo
+
 ## Introduction
 
 ### English
